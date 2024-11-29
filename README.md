@@ -734,8 +734,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] Alexa for Business.
 - [ ] Amazon Connect.
 - [x] Amazon Lex.
-- [ ] Amazon Polly.
-- [x] Amazon Comprehend.
+- [x] Amazon Polly.
+- [ ] Amazon Comprehend.
 - [x] Amazon Transcribe.
 
 **[⬆ Back to Top](#table-of-contents)**
